@@ -33,9 +33,7 @@ The goal is to demonstrate object-oriented thinking, card handling logic, random
 <img width="271" height="271" alt="image" src="https://github.com/user-attachments/assets/76b86698-c3bf-4a76-8e1a-9e59e8989095" />
 <img width="282" height="285" alt="image" src="https://github.com/user-attachments/assets/4a793c54-12b1-4794-8207-8b51e6a63655" />
 
-
-
-
+---
 ## ▶️ How to Build & Run
 
 Compile using any C++ compiler:

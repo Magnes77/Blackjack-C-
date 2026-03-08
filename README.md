@@ -41,4 +41,11 @@ Compile using any C++ compiler:
 ```bash
 g++ src/main.cpp -o blackjack
 ./blackjack
-
+```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/w_magnescs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="w_magnescs" height="30" width="40" /></a>
+<a href="https://fb.com/wiktor.cieplinskii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wiktor.cieplinskii" height="30" width="40" /></a>
+<a href="https://instagram.com/victor_cieplinski_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor_cieplinski_" height="30" width="40" /></a>
+<a href="https://discord.gg/magnes9920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="magnes9920" height="30" width="40" /></a>
+</p>
